@@ -1,0 +1,4 @@
+order_id,customer_id,product,price,order_date
+O1001,C001,Headphones,150,2025-04-01
+O1002,C002,Phone Case,20,2025-04-01
+O1003,C003,Laptop Bag,60,2025-04-02
